@@ -1,12 +1,11 @@
-<div align="right">
-  <img src="https://github.com/Atuldeshmukh07/Atuldeshmukh07/blob/main/cyber-boy-pictures-cute-cyber-boy-image-download-hd_846390-3657.jpg" width="128" height="128" style="border-radius: 50%"/>
-</div>
+<img align="right" width="200" src="https://github.com/Atuldeshmukh07/Atuldeshmukh07/blob/main/image_1.png">
 
 # Hi there 👋
 
 ## I'm Atul Deshmukh
 
 I'm a software engineer with expertise in backend development...
+
 
 
 

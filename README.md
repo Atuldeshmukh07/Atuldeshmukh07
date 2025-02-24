@@ -1,8 +1,8 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
 <a href="https://www.linkedin.com/in/atul-deshmukh-7a2d9" target="_blank">
-    <img align="right" width="200" height="200" style="border-radius:50%" src="https://github.com/Atuldeshmukh07/Atuldeshmukh07/blob/main/image_1.png">
+    <img align="right" width="200" src="https://github.com/Atuldeshmukh07/Atuldeshmukh07/blob/main/image_1.png">
 </a>
+
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## I'm Atul Deshmukh
 

@@ -6,59 +6,61 @@
 
 ## I'm Atul Deshmukh
 
-🚀 Backend Developer | MERN Stack | System Programmer  
+🚀 **Backend Developer | MERN Stack | System Programmer**  
 
-👨‍💻 About Me:  
-🔹 Backend Developer with expertise in Node.js, Express.js, MongoDB, SQL, and REST APIs.  
-🔹 Experienced in CI/CD pipelines, database optimization, and system design.  
-🔹 Passionate about real-time applications, authentication security, and cloud technologies.  
-🔹 Currently working at TCS on a Jaguar Land Rover (JLR) project, building automation testing solutions.      
-🔹 Strong foundation in Data Structures & Algorithms, System Programming, and Performance Optimization.   
+## 👨‍💻 About Me    
+- **Backend Developer** with expertise in Node.js, Express.js, MongoDB, SQL, and REST APIs.  
+- **Experienced in CI/CD pipelines**, database optimization, and system design.  
+- **Passionate about real-time applications**, authentication security, and cloud technologies.  
+- **I love optimizing database queries** and designing scalable system architectures.     
+- **Strong foundation in Data Structures & Algorithms**, System Programming, and Performance Optimization. 
 
-🚀 What I'm Working On  
-Scalable Stock Management System with real-time trade updates and transaction handling.  
-Advanced System Design & Performance Optimization for backend applications.  
-Cloud & DevOps – Learning Docker, Kubernetes, and CI/CD deployment strategies.  
+## 🔭 What I'm Working On
+- **Building Scalable Backend Systems** using Node.js, Express, and MongoDB.
+- **Developing Real-time Applications** with WebSockets and JWT-based authentication.
+- **Exploring Cloud Technologies** to optimize and deploy robust backend solutions.
+- **Advanced System Design** & Performance Optimization for backend applications.
+- **Cloud & DevOps** – Learning Docker, Kubernetes, and CI/CD deployment strategies. 
 
-📖 Learning & Exploring  
-📌 Microservices & Distributed Systems for scalability and fault tolerance.   
-📌 Event-Driven Architecture using Kafka & RabbitMQ.   
-📌 Advanced Backend Performance Optimization for high-load applications.  
+## 🌱 What I'm Learning
+- **Microservices & Distributed Systems** for scalability and fault tolerance.
+- **Event-Driven Architecture** using Kafka & RabbitMQ.
+- **Advanced Backend Performance Optimization** for high-load applications. 
+- **Azure Cloud & Kubernetes** to enhance cloud deployment strategies.
 
-🛠 Tech Stack  
-🚀 Backend Development   
-Node.js, Express.js, Java  
-REST APIs, GraphQL, WebSockets  
-Sequelize, Mongoose, Redis  
+## 🛠 Tech Stack & Skills   
+### 💻 Backend   
+- **Node.js | Express.js | JavaScript**   
+- **RESTful APIs | WebSockets | Sequelize**    
+- **Java | SQL | Mongoose**  
 
-📂 Databases  
-MongoDB, PostgreSQL, MySQL  
-Firebase (Real-time DB & Authentication)  
-Redis (Caching & Performance Optimization)  
+### 🎨 Frontend    
+- **React.js | HTML | Bootstrap**   
 
-⚙️ DevOps & Tools  
-Docker, Kubernetes, CI/CD Pipelines  
-Postman, Jest, Mocha  
-Git, GitHub, BitBucket  
+### 📂 Databases   
+- **MongoDB | MySQL | SQLite**   
 
-📚 Projects  
-🔹 Foot Tracker  
-✅ MERN Stack dashboard for hospitals, doctors, nurses, and patients.  
-✅ Built real-time data visualizations using Chart.js & Plotly.js.  
-✅ Integrated JWT-based authentication with role-based access control.   
-✅ Automated health check-up reminders using cron jobs & Node.js.    
+### ⚙️ DevOps & Tools     
+- **Docker | Kubernetes | CI/CD**   
+- **Postman | Jest | RIT | IBM ACE**   
+- **Git | GitHub | Jira | BitBucket**  
 
-🔗 Explore More Projects on My GitHub  
+## 📚 Projects
+### 🔹 Foot Tracker
+- Developed a **MERN stack** healthcare dashboard for **hospitals, doctors, nurses, and patients**.
+- Built **real-time data visualizations** using **Chart.js & Plotly.js**.
+- Integrated **JWT-based authentication** with **role-based access control**.
+- Automated **health check-up reminders** using **cron jobs & Node.js**.
 
-🎖 Certifications  
-🏅 Microsoft Certified: Azure Data Scientist Associate  
-🏅 Java Full Stack Development - Simplilearn  
+🔗 More projects on [My GitHub](https://github.com/Atuldeshmukh07)
 
-📊 GitHub Stats  
+## 🎖 Certifications
+- **Microsoft Certified: Azure Data Scientist Associate**
+- **Java Full Stack Development - Simplilearn**    
 
-📫 Connect with Me  
-🔗 Portfolio: atuldeshmukhportfolio.netlify.app  
-🔗 LinkedIn: linkedin.com/in/atul-deshmukh-7a2d9   
-🔗 GitHub: github.com/Atuldeshmukh07   
+## 📫 Let's Connect!   
+🔗 Portfolio: [atuldeshmukhportfolio.netlify.app](https://atuldeshmukhportfolio.netlify.app/)    
+🔗 LinkedIn: [linkedin.com/in/atul-deshmukh-7a2d9](https://www.linkedin.com/in/atul-deshmukh-7a2d9/)      
+🔗 GitHub: [github.com/Atuldeshmukh07](https://github.com/Atuldeshmukh07)     
 
-🔥 "Building scalable systems, one line of code at a time."  
+🚀 **"Always learning, always building!"**   

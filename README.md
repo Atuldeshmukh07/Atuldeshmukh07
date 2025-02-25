@@ -56,7 +56,14 @@
 
 ## 🎖 Certifications
 - **Microsoft Certified: Azure Data Scientist Associate**
-- **Java Full Stack Development - Simplilearn**    
+- **Java Full Stack Development - Simplilearn**
+
+![Achievement Badge](https://img.shields.io/badge/Achievement-Unlocked-brightgreen)
+![Milestone](https://img.shields.io/badge/Milestone-Reached-brightgreen)
+![Code Contributor](https://img.shields.io/badge/Code%20Contributor-Active-blue)
+![Bug Hunter](https://img.shields.io/badge/Bug%20Hunter-🏆-red)
+
+
 
 ## 📫 Let's Connect!   
 🔗 **Portfolio:** [atuldeshmukhportfolio.netlify.app](https://atuldeshmukhportfolio.netlify.app/)    

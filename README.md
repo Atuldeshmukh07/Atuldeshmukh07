@@ -59,8 +59,9 @@
 - **Java Full Stack Development - Simplilearn**    
 
 ## 📫 Let's Connect!   
-🔗 Portfolio: [atuldeshmukhportfolio.netlify.app](https://atuldeshmukhportfolio.netlify.app/)    
-🔗 LinkedIn: [linkedin.com/in/atul-deshmukh-7a2d9](https://www.linkedin.com/in/atul-deshmukh-7a2d9/)      
-🔗 GitHub: [github.com/Atuldeshmukh07](https://github.com/Atuldeshmukh07)     
+🔗 **Portfolio:** [atuldeshmukhportfolio.netlify.app](https://atuldeshmukhportfolio.netlify.app/)    
+🔗 **LinkedIn:** [linkedin.com/in/atul-deshmukh-7a2d9](https://www.linkedin.com/in/atul-deshmukh-7a2d9/)      
+🔗 **GitHub:** [github.com/Atuldeshmukh07](https://github.com/Atuldeshmukh07)     
+🔗 **Twitter:** [x.com/Atul_Deshmukh_](https://x.com/Atul_Deshmukh_)  
 
 🚀 **"Always learning, always building!"**   
